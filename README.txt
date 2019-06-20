@@ -1,3 +1,3 @@
 Hello Git and GitHub
-Annyeonghaseo git a github
+Annyeonghaseo Git a Github
 Hola Git y Github
