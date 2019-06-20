@@ -1,1 +1,2 @@
-Hello Git and GitHubAnnyeonghaseo git a github
+Hello Git and GitHub
+Annyeonghaseo git a github
