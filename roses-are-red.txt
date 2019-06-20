@@ -2,3 +2,4 @@ roses are red, violets are blue, I love spiderman, and so do you
 roses are red, violets are blue, im a schizophrenic, and so am i... -Bob Wiley
 fezzes are red, the tardis is blue, rose tyler, I--... -Doctor Who vers.
 variables are red, functions are blue, python is a language, not a snake like you
+Las rosas son rojas, las violetas son azules, amo a Spiderman, y tú también.
