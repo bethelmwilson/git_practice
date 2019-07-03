@@ -1,0 +1,4 @@
+if you havent tried it, assume its broken. - Unknown
+hope is not a strategy. - Traditional SRE saying
+May the queries flow, and the pager stay silent. - Traditional SRE blessing
+The cost of failure is education. - Devin Carraway
